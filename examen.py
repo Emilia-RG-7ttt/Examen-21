@@ -1,6 +1,6 @@
 # Examen práctico - Terminal de Expedición Espacial
-# Nombre y apellido:
-# Curso:
+# Nombre y apellido: Emilia Rodrigue Gavidia
+# Curso:2° 1°
 #
 # IMPORTANTE:
 # Resolver el programa siguiendo las etapas indicadas en el README.md.
@@ -11,6 +11,14 @@
 
 # =========================
 # ETAPA 1 - INICIO
+print ("TERMINAL DE EXPLORACIÓN ESPACIAL")
+nombre = input ("nombre del piloto: ")
+print ("bienvenido/a: ", nombre)
+combustible = 100
+print ("cantidad de combustible: ", combustible)
+    
+         
+
 # =========================
 
 # Crear las variables necesarias.
@@ -20,6 +28,7 @@
 
 # =========================
 # ETAPA 2 - NAVEGACIÓN
+
 # =========================
 
 # Mostrar el menú y procesar la opción seleccionada.
